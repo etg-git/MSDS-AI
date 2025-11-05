@@ -1,0 +1,36 @@
+# config/synonyms.yml
+identification:
+  - "제품 식별"
+  - "회사 정보"
+hazards:
+  - "경고 표지"
+  - "위험성 분류"
+composition:
+  - "구성 성분"
+  - "혼합물 정보"
+first_aid:
+  - "응급 처치 요령"
+fire_fighting:
+  - "소화 조치"
+accidental_release:
+  - "유출 대응"
+handling_storage:
+  - "보관 방법"
+exposure_ppe:
+  - "보호구"
+physical_chemical:
+  - "물리/화학적 특성"
+stability_reactivity:
+  - "안정성/반응성"
+toxicology:
+  - "독성 정보"
+ecology:
+  - "생태 정보"
+disposal:
+  - "폐기 방법"
+transport:
+  - "운송 정보"
+regulation:
+  - "규제/법규"
+other:
+  - "기타 사항"
